@@ -1,7 +1,6 @@
 package com.example.projetospring.mvc.web.validator;
 
 import java.time.LocalDate;
-import java.util.Set;
 
 import org.springframework.validation.Errors;
 import org.springframework.validation.Validator;

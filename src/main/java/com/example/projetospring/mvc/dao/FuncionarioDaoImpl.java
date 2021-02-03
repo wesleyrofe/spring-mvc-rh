@@ -2,11 +2,6 @@ package com.example.projetospring.mvc.dao;
 
 import java.time.LocalDate;
 import java.util.List;
-import java.util.Optional;
-
-import javax.persistence.TypedQuery;
-
-import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 import com.example.projetospring.mvc.domain.Funcionario;

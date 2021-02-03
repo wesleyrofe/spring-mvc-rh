@@ -3,7 +3,6 @@ package com.example.projetospring.mvc.domain;
 import javax.persistence.*;
 import javax.validation.constraints.*;
 
-import org.springframework.format.annotation.NumberFormat;
 
 import lombok.*;
 
