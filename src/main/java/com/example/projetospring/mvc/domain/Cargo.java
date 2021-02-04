@@ -13,7 +13,7 @@ import lombok.*;
 @Table(name = "cargo")
 @Getter
 @Setter
-@SuppressWarnings("serial")
+
 public class Cargo extends AbstractEntity<Long> {
 	
 	@NotBlank(message = "Informe um cargo")
